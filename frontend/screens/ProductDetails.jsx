@@ -1,6 +1,8 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 import { color, defaultStyle } from '../styles/style'
+import Header from '../components/Header'
+
 
 const ProductDetails = ({route}) => {
     console.log(route)
@@ -11,7 +13,7 @@ const ProductDetails = ({route}) => {
         backgroundColor: color.color1
     }}>
 
-    <Header back={true}/>
+    <Header/>
       <Text>ProductDetails</Text>
     </View>
   )
