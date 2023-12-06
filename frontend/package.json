@@ -15,7 +15,7 @@
     "expo": "~47.0.12",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5",
+    "react-native": "0.73.0",
     "react-native-paper": "^5.2.0",
     "react-native-snap-carousel": "^4.0.0-beta.6"
   },
